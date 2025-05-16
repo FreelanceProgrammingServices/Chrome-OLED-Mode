@@ -1,5 +1,5 @@
 # Chrome OLED Mode Extension
-**Chrome OLED Mode adds a pitch black theme to websites, making them high contrast and easy to read at night.*
+*Chrome OLED Mode adds a pitch black theme to websites, making them high contrast and easy to read at night.*
 
 ![Chrome-OLED-Mode Logo](demo1.png)
 ![Chrome-OLED-Mode Logo](demo2.png)
